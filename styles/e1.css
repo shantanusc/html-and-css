@@ -1,0 +1,30 @@
+.back
+{
+    color: rgb(0, 113, 233);
+
+}
+.dollar{
+    color: rgb(0, 118, 0);
+    font-size:large;
+    font-weight:bold;
+}
+.deliver{
+    color: rgb(255, 216, 20);
+}
+.add{
+    background: rgb(255, 216, 20);
+    color:black;
+    border: none;
+    height: 25px;
+    width: 103px;
+    border-radius:14px;
+
+}
+.buy{
+    background-color: orange;
+    color: black;
+    border:none;
+    height:25px;
+    width: 103px;
+    border-radius:14px;
+}

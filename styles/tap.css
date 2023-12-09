@@ -1,0 +1,84 @@
+.all{
+    align-items: center;
+    padding: 40px 40px 40px 40px;
+    flex-direction: column;
+    display: flex;
+}
+.logo{
+    width: 150px;  
+    cursor: pointer;
+    margin-bottom: 30px;
+
+}
+.h3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 2rem;
+    font-weight:400;
+    padding-bottom: 0px;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+.p1{
+    font-size: medium;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.a1{
+    color: #00e;
+}
+.form1{
+    padding-top: 24px;
+    width: 160px;
+}
+.email{
+    color: #545353;
+    font-size: small;
+
+}
+.pass3{
+    font-size: small;
+    color: #ca0000;
+}
+.inemail{
+    margin-top: 3px;
+    padding: 5px 85px 5px 5px;
+    border: 1px solid;
+    border-radius: 3px;
+
+
+
+}
+.upas{
+    margin-top: 3px;
+    padding: 5px 85px 5px 5px;
+    border: 1px solid;
+    border-radius: 3px;
+
+}
+.button{
+    padding: 12px 105px 12px 105px;
+    border: 1px solid;
+    color: white;
+    background-color: #00e;
+    opacity: 0.8;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+.button:hover{
+    background-color: white;
+    color: #00e;
+    box-shadow: 3px 3px 7px black;
+    transition: 0.25s;
+
+}
+.forget{
+    margin-top:26px;
+    font-size: xx-small;
+    cursor: pointer;
+}.end{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    font-size:small;
+}

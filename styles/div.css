@@ -1,0 +1,47 @@
+.divone{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.circle{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+.our{
+    border-color: black;
+    border-width:1px;
+    border-style: solid;
+    width: 300px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+
+}
+.box{
+    cursor: pointer;
+    border-style: solid;
+    border-width: 1px;
+    border-color:black ;
+    width: 300px;
+    background-color: rgb(49, 49, 49);
+}
+.box:hover{
+    background-color: black;
+
+}
+.white{
+    color: white;
+    font-family: arial;
+    padding-left:8px ;
+    
+
+}
+.white:hover{
+    color: brown;
+}
+.gray{
+    color: gray;
+    font-family: arial;
+    padding-left: 8px;
+}

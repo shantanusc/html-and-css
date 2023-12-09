@@ -1,0 +1,35 @@
+.one{
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    grid-row: span 1;
+    grid-column: span 1;
+}
+.two{
+    background-color: gray;
+    color: white;
+    border-radius: 12px;
+    text-align: center;
+    padding-top: 12px;
+    grid-row:span 2 ;
+    grid-column: span 2;
+}
+.three{
+    background-color: rgb(173, 171, 171);
+    color: white;
+    border-radius:12px;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    grid-row: span 3;
+    grid-column: span 3;
+
+}
+.container{
+    display: grid;
+    grid-template-columns:100px 100px 100px 100px 100px 100px ;
+    grid-template-rows:100px 100px 100px 100px 100px 100px ;
+}

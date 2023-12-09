@@ -1,0 +1,106 @@
+
+    p{
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+    }
+    .body{
+        background-color:rgb(247, 161, 161);
+    }
+    .one{
+        font-family: Arial, Helvetica, sans-serif;
+        color: red;
+        text-align: center;
+        margin-bottom: 0px;
+    }
+    .two{
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+    }
+    .three{
+        text-align: center;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+    .four{
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 0px;
+        margin-bottom:0px ;
+        padding-top: 0px;
+        font-size: 12px;
+    }
+    .five{
+        background-color: rgb(85, 85, 211);
+        color: white;
+        border: none;
+        border-radius: 25px;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        padding-right: 10px;
+        padding-left: 10px;
+        cursor: pointer;
+        opacity: 0.9;
+        text-align: center;
+     }
+     
+     .five:hover{
+        background-color: green;
+        color: white;
+        box-shadow: 4px 5px 19px black;
+        transition: 0.5s;
+     }
+     .pre{
+        font-size: 25px;
+        margin-top: 0px;
+        margin-bottom: 8px;
+     }
+     .pos{
+        font-size:16px;
+        color: gray;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        padding-bottom: 0px;
+     }
+     .pluse{
+        color: green;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding-top: 0px;
+     }
+     .last
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        color: gray;
+        margin-top: 6px;
+    }
+    .once{
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(196, 0, 0);
+    }
+    .free1{
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+    .free{
+        color: gray;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .as{
+        font-size: 16px;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+    .online{
+        color: rgb(71, 145, 170);
+    }
+

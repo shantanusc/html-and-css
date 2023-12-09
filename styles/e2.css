@@ -1,0 +1,138 @@
+.back{
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-right:7px;
+    cursor:pointer;
+    font-size: 16px;
+
+}
+.one{
+    margin-left:4px;
+    margin-right: 4px;
+    font-size: 18;
+}
+
+.next{
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-left:8px;
+    cursor:pointer;
+    font-size:16px;
+    
+
+}
+
+.str{
+    background-color:rgb(88, 219, 88);
+    border:none;
+    color:white;
+    border-radius:2px;
+    padding-top:8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor:pointer;
+    font-size: 18px;
+    transition:padding-top 0.15s, padding-bottom 0.15s,
+        padding-left 0.15s, padding-right-0.15s;
+    
+
+}
+.str:hover{
+    padding-top:18px;
+    padding-bottom: 18px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+.sha{
+    background-color: rgb(88, 219, 88);
+    border: none;
+    color:white;
+    border-radius: 2px;
+    font-size: 19px;
+    padding-top:8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer;
+    
+    
+
+}
+.sha:hover{
+    
+    box-shadow:8px 8px 13px rgba(0, 0, 0, 0.3);
+
+}
+.sha:active{
+    margin-top: 3px;
+    margin-left: 3px;
+    box-shadow: none;
+}
+.g1{
+    background-color:rgb(88, 219, 88);
+    color: white;
+    border-radius: 2px;
+    border: none;
+    font-size: 19px;
+    padding-top:8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    margin-right:10px ;
+    cursor: pointer;
+    
+}
+.g1:hover{
+    padding-left: 18px;
+    padding-right: 18px;
+    margin-left: 0px;
+    margin-right:0px ;
+
+}
+.g2{
+    background-color:rgb(88, 219, 88);
+    color: white;
+    border-radius: 2px;
+    border: none;
+    font-size: 19px;
+    padding-top:8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    margin-right:10px ;
+    cursor: pointer;
+    
+}
+.g2:hover{
+    padding-left: 18px;
+    padding-right: 18px;
+    margin-left: 0px;
+    margin-right:0px ;
+
+}
+.g3{
+    background-color:rgb(88, 219, 88);
+    color: white;
+    border-radius: 2px;
+    border: none;
+    font-size: 19px;
+    padding-top:8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    margin-right:10px ;
+    cursor: pointer;
+    
+}
+.g3:hover{
+    padding-left: 18px;
+    padding-right: 18px;
+    margin-left: 0px;
+    margin-right:0px ;
+
+}
+
